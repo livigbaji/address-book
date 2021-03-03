@@ -1,0 +1,6 @@
+node_modules
+node_modules/*
+env.zip
+.env-test
+AddressAPI.zip
+.DS_Store
