@@ -15,8 +15,8 @@
 
 ## Endpoints
 
-GET `/address` - Returns all available addresses
-POST `/address` - Creates new address
-GET `/address/{id}` - Returns specific address
-PATCH `/address/{id}` - Modifies specific address
-DELETE `/address/{id}` - Permanently removes specific address
+- GET `/address` - Returns all available addresses
+- POST `/address` - Creates new address
+- GET `/address/{id}` - Returns specific address
+- PATCH `/address/{id}` - Modifies specific address
+- DELETE `/address/{id}` - Permanently removes specific address
