@@ -4,4 +4,4 @@ env.zip
 .env-test
 AddressAPI.zip
 .DS_Store
-newman
+newman/*
